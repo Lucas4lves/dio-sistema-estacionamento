@@ -1,0 +1,15 @@
+L:\DIO DESAFIO C#1\bin\Debug\net6.0\DIO DESAFIO C#1.exe
+L:\DIO DESAFIO C#1\bin\Debug\net6.0\DIO DESAFIO C#1.deps.json
+L:\DIO DESAFIO C#1\bin\Debug\net6.0\DIO DESAFIO C#1.runtimeconfig.json
+L:\DIO DESAFIO C#1\bin\Debug\net6.0\DIO DESAFIO C#1.dll
+L:\DIO DESAFIO C#1\bin\Debug\net6.0\DIO DESAFIO C#1.pdb
+L:\DIO DESAFIO C#1\obj\Debug\net6.0\DIO DESAFIO C#1.csproj.AssemblyReference.cache
+L:\DIO DESAFIO C#1\obj\Debug\net6.0\DIO DESAFIO C#1.GeneratedMSBuildEditorConfig.editorconfig
+L:\DIO DESAFIO C#1\obj\Debug\net6.0\DIO DESAFIO C#1.AssemblyInfoInputs.cache
+L:\DIO DESAFIO C#1\obj\Debug\net6.0\DIO DESAFIO C#1.AssemblyInfo.cs
+L:\DIO DESAFIO C#1\obj\Debug\net6.0\DIO DESAFIO C#1.csproj.CoreCompileInputs.cache
+L:\DIO DESAFIO C#1\obj\Debug\net6.0\DIO DESAFIO C#1.dll
+L:\DIO DESAFIO C#1\obj\Debug\net6.0\refint\DIO DESAFIO C#1.dll
+L:\DIO DESAFIO C#1\obj\Debug\net6.0\DIO DESAFIO C#1.pdb
+L:\DIO DESAFIO C#1\obj\Debug\net6.0\DIO DESAFIO C#1.genruntimeconfig.cache
+L:\DIO DESAFIO C#1\obj\Debug\net6.0\ref\DIO DESAFIO C#1.dll
